@@ -284,7 +284,7 @@ export default function Hero() {
         </div>
       </section>
       {/* Main Banner */}
-      <section className="mx-4 mt-6">
+      {/* <section className="mx-4 mt-6">
         <div className="rounded-2xl overflow-hidden">
           <img
             src="https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=2700/layout-engine/2022-05/Group-33704.jpg"
@@ -292,7 +292,7 @@ export default function Hero() {
             className="w-full h-auto object-cover"
           />
         </div>
-      </section>
+      </section> */}
 
       {/* Promo Boxes */}
       <section className="grid grid-cols-1 md:grid-cols-3 gap-4 px-4 mt-6">
